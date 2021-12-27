@@ -1,0 +1,27 @@
+.site-container{
+    text-align: center;
+    background: linear-gradient(to top, #579fc0 0%, #021546 100%);
+  }
+  html {
+    font-size: 14px;
+  }
+  body {
+    line-height: 1.5;
+    color: black;
+    margin:0;
+  } 
+  /* .middle{
+    margin-left: 600px;
+  } */
+ .instaclonestyle{
+   font-family: cursive;
+   font-size: 3rem;
+   margin-left: 1%;
+ }
+ .postcard{
+   margin-left: 40%;
+   margin-top: 20px;
+ }
+ .backgroungofpost{
+  background: linear-gradient(to top, #579fc0 0%, #021546 100%);
+ }

@@ -1,0 +1,29 @@
+{ 
+    "user":
+            [ 
+            {"name":"Siva", 
+            "location":"Bengaluru", 
+            "likes":64, 
+            "description": "Kick start your career", 
+            "PostImage": "https://cimg2.ibsrv.net/cimg/www.hdforums.com/1600x900_85-1/742/BigWish-List-Must-Have-H-D-Motorcycles-Past-and-Present-012-405742.jpg", 
+            "date": "20/12/2021"
+            }, 
+
+            {"name":"Neeraj", 
+            "location":"Pune", 
+            "likes":30, 
+            "description": "Sample Description", 
+            "PostImage": "https://th.bing.com/th/id/R.a2372f6deacf24c9da826ddc6d0e7ff0?rik=o3vptlLwNI6Mtw&riu=http%3a%2f%2fwallpapersdsc.net%2fwp-content%2fuploads%2f2016%2f10%2fSunset-HD.jpg&ehk=ZlF9W%2bVKWFaiCid0LPPaJ9OzNVtmJCz25aLwSiX%2fGZo%3d&risl=&pid=ImgRaw&r=0", 
+            "date": "20/12/2021"
+            }, 
+
+            {"name":"Rahul", 
+            "location":"Hyderabad", 
+            "likes":30, 
+            "description": "Sample Description for Post", 
+            "PostImage": "https://th.bing.com/th/id/OIP.gBwDK63SKCCi_oH19i48tgHaEo?pid=ImgDet&rs=1", 
+            "date": "22/12/2021"
+            } 
+
+            ] 
+}
